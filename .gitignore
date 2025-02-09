@@ -1,0 +1,8 @@
+# .gitignore
+.env
+temp/
+tb/
+abe0/
+__pycache__/
+results/
+models/
