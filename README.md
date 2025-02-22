@@ -6,7 +6,9 @@
   </a>
   <h3 align="center">Llama3SP</h3>
   <p align="center">
-    High-performance Agile story point estimator Model
+    A Transformer-Based Agile story point estimator Model
+    <br/>
+    Heavyweight Performance, Lightweight Execution
   </p>
 </p>
 
@@ -35,8 +37,7 @@
 ## How to replicate 
 
 ### About the Datasets
-All of the datasets for 16 different projects are available in the <a href="https://github.com/DEVCamiloSepulveda/llama3sp/tree/main/sp_dataset/marked_data"> marked_data folder </a>
-Each dataset has the following 5 columns:
+All of the datasets for 16 different projects are available in the [marked_data folder](https://github.com/DEVCamiloSepulveda/llama3sp/tree/main/sp_dataset/marked_data), each dataset has the following 5 columns:
 1. issuekey: Issue ID
 2. title: Issue Title
 3. description: Issue Description
@@ -85,7 +86,7 @@ Model ID | Model Specification | Experiment Scenario
   * SentencePieceSP+Llama3.2
   * Word-levelSP+Llama3.2
   * WordPieceSP+Llama3.2
-* There are also some experimental results from a model derived from Llama3.2 called Llama3SP.
+* There are also some experimental results from a model derived from Llama 3.2.
 
 ## Acknowledgements
 * Special thanks to the creators of the original GPT2SP research (_GPT2SP: A Transformer-Based Agile Story Point Estimation Approach_) and the research that corrects and improves it (_Agile Effort Estimation: Have We Solved the Problem Yet? Insights From the Replication of the GPT2SP Study_).
