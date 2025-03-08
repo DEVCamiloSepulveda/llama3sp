@@ -1,4 +1,4 @@
-Project,SP_mean,SP_std,GPT2SP,DeepSE,LSTM+RF,LSTM+SVM,Doc2Vec+RF,BOW+RF,LSTM+ATLM,LSTM+LR,Median,Mean,Llama3SP,Llama3.2+SPWordLevel,Llama3.2+SPWordPiece,Llama3.2+SPSentencePiece,Llama3.2_Custom
+Project,SP_mean,SP_std,GPT2SP,DeepSE,LSTM+RF,LSTM+SVM,Doc2Vec+RF,BOW+RF,LSTM+ATLM,LSTM+LR,Median,Mean,Llama3SP,Llama3.2+SPWordLevel,Llama3.2+SPWordPiece,Llama3.2+SPSentencePiece,Llama3SPv2
 appceleratorstudio,5.64,3.33,1.53,1.36,1.62,1.46,1.62,1.83,1.59,1.68,1.84,2.08,1.65,1.5,1.67,1.64,1.59
 aptanastudio,8.02,5.95,3.52,2.71,2.96,3.06,3.2,2.97,3.06,3.75,3.71,3.15,3.74,3.76,4.04,3.74,3.89
 bamboo,2.42,2.14,0.77,0.74,1.01,0.81,1.12,1.34,1.97,1.26,1.32,1.75,1.1,1.43,1.17,0.97,1.11
