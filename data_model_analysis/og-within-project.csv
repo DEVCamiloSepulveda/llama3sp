@@ -1,0 +1,65 @@
+Project,Method,MAE,MdAE,SA
+Mesos,GPT2SP,1.21,0.98,42.56
+Mesos,Deep-SE,1.12,0.73,46.72
+Mesos,Mean,1.41,1.78,33.18
+Mesos,Median,1.22,2.00,42.30
+Usergrid,GPT2SP,1.19,1.02,22.56
+Usergrid,Deep-SE,1.18,0.80,23.25
+Usergrid,Mean,1.19,1.23,22.43
+Usergrid,Median,1.15,1.00,24.97
+Appcelerator Studio,GPT2SP,1.53,0.71,49.98
+Appcelerator Studio,Deep-SE,1.42,0.58,53.49
+Appcelerator Studio,Mean,1.91,1.52,37.52
+Appcelerator Studio,Median,1.30,1.00,57.41
+Aptana Studio,GPT2SP,3.52,3.10,37.75
+Aptana Studio,Deep-SE,4.14,2.52,26.74
+Aptana Studio,Mean,3.59,3.46,36.53
+Aptana Studio,Median,3.61,4.00,36.18
+Titanium,GPT2SP,2.35,1.45,48.78
+Titanium,Deep-SE,2.09,1.34,54.49
+Titanium,Mean,3.02,1.97,34.29
+Titanium,Median,2.04,2.00,55.71
+Bamboo,GPT2SP,0.77,0.69,54.30
+Bamboo,Deep-SE,0.81,0.61,51.78
+Bamboo,Mean,1.22,1.31,27.99
+Bamboo,Median,0.75,1.00,55.34
+Clover,GPT2SP,3.76,0.97,32.89
+Clover,Deep-SE,3.39,0.80,39.41
+Clover,Mean,4.57,3.06,18.46
+Clover,Median,3.71,2.00,33.77
+Jira Software,GPT2SP,1.57,0.81,54.09
+Jira Software,Deep-SE,1.70,1.09,50.08
+Jira Software,Mean,2.40,2.15,29.61
+Jira Software,Median,2.31,2.00,32.40
+Duracloud,GPT2SP,0.80,0.50,47.97
+Duracloud,Deep-SE,0.82,0.53,46.97
+Duracloud,Mean,1.00,1.14,35.17
+Duracloud,Median,0.82,1.00,46.78
+Data Management,GPT2SP,5.49,2.00,48.42
+Data Management,Deep-SE,5.86,2.22,50.87
+Data Management,Mean,8.66,4.55,27.35
+Data Management,Median,6.19,3.00,48.09
+Moodle,GPT2SP,6.59,8.53,45.76
+Moodle,Deep-SE,7.89,4.93,48.92
+Moodle,Mean,12.63,12.11,18.21
+Moodle,Median,6.59,6.00,57.32
+Mule,GPT2SP,2.61,2.23,28.55
+Mule,Deep-SE,2.59,1.96,29.14
+Mule,Mean,2.60,2.22,28.72
+Mule,Median,2.47,2.00,32.29
+Mulesoft,GPT2SP,3.70,2.62,23.55
+Mulesoft,Deep-SE,3.67,2.26,24.12
+Mulesoft,Mean,3.74,2.80,22.65
+Mulesoft,Median,3.66,3.00,24.32
+Spring XD,GPT2SP,1.78,1.54,37.09
+Spring XD,Deep-SE,1.70,1.31,39.96
+Spring XD,Mean,2.05,2.53,27.59
+Spring XD,Median,1.71,2.00,39.55
+Talend Data Quality,GPT2SP,3.65,3.44,29.41
+Talend Data Quality,Deep-SE,3.61,2.92,30.07
+Talend Data Quality,Mean,4.56,5.08,11.69
+Talend Data Quality,Median,3.31,4.00,35.85
+Talend ESB,GPT2SP,0.86,0.55,38.81
+Talend ESB,Deep-SE,0.90,0.59,36.19
+Talend ESB,Mean,1.04,0.91,26.47
+Talend ESB,Median,0.92,1.00,34.86

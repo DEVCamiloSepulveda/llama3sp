@@ -1,0 +1,17 @@
+Train,Test,Llama3.2,Llama3.2+SPWordLevel,Llama3.2+SPWordPiece,Llama3.2+SPSentencePiece
+mesos,usergrid,43.23,40.39,41.3,55.22
+usergrid,mesos,32.85,33.22,38.01,39.53
+appceleratorstudio,aptanastudio,42.05,30.43,43.11,42.62
+appceleratorstudio,titanium,42.19,35.25,41.44,43.19
+titanium,appceleratorstudio,50.29,48.6,54.07,54.14
+aptanastudio,titanium,34.99,37.35,29.36,35.0
+mule,mulestudio,39.44,30.94,41.84,38.13
+mulestudio,mule,34.85,32.95,32.61,27.74
+clover,usergrid,13.91,-7.49,11.85,37.04
+talendesb,mesos,41.39,24.52,38.26,35.73
+talenddataquality,aptanastudio,39.69,37.58,39.65,37.03
+mule,titanium,40.14,36.65,42.67,43.13
+talenddataquality,appceleratorstudio,47.12,48.22,41.94,51.43
+mulestudio,titanium,35.84,35.89,39.6,31.78
+appceleratorstudio,mulestudio,42.15,39.96,42.49,40.16
+appceleratorstudio,mule,36.61,36.88,34.23,39.48

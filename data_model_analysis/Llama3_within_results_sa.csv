@@ -1,0 +1,17 @@
+Project,Llama3.2,Llama3.2+SPWordLevel,Llama3.2+SPWordPiece,Llama3.2+SPSentencePiece
+appceleratorstudio,63.86,67.29,63.46,64.25
+aptanastudio,44.37,44.05,39.9,44.35
+bamboo,20.44,-3.79,15.34,29.34
+clover,8.59,-9.83,13.88,14.35
+datamanagement,16.7,-116.75,12.39,7.39
+duracloud,19.37,-4.53,1.52,15.58
+jirasoftware,34.87,26.38,32.32,39.69
+mesos,38.67,32.94,47.17,42.65
+moodle,-74.63,-75.04,-107.67,-68.73
+mule,35.72,34.83,32.16,39.2
+mulestudio,42.59,44.75,40.44,40.95
+springxd,25.47,30.6,33.44,38.81
+talenddataquality,-29.97,-60.21,-28.72,-34.27
+talendesb,30.09,-10.36,31.96,35.27
+titanium,48.23,50.8,48.03,51.29
+usergrid,38.45,38.1,44.02,44.14
