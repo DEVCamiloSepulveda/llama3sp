@@ -1,0 +1,17 @@
+Train,Test,MAE,MdAE
+mesos,usergrid,1.28,0.98
+usergrid,mesos,1.67,1.26
+appceleratorstudio,aptanastudio,4.15,2.74
+appceleratorstudio,titanium,3.43,2.25
+titanium,appceleratorstudio,2.55,1.99
+aptanastudio,titanium,4.79,4.46
+mule,mulestudio,3.65,2.45
+mulestudio,mule,3.07,2.62
+clover,usergrid,2.31,1.92
+talendesb,mesos,1.79,1.14
+talenddataquality,aptanastudio,4.47,3.42
+mule,titanium,3.5,1.85
+talenddataquality,appceleratorstudio,2.64,2.11
+mulestudio,titanium,3.74,2.75
+appceleratorstudio,mulestudio,3.46,2.44
+appceleratorstudio,mule,2.8,2.54
