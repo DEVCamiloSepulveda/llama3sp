@@ -59,9 +59,11 @@ Model ID | Model Specification | Experiment Scenario
 #0  | BPE Llama3.2 Tokenizer + Custom Pre-trained LLaMA 3.2 | Within-Project 
 #00  | BPE Llama3.2 Tokenizer + Custom Pre-trained LLaMA 3.2 | Within-Repository 
 #000  | BPE Llama3.2 Tokenizer + Custom Pre-trained LLaMA 3.2 | Cross-Repository 
+#1  | BPE DeepSeek R1 Tokenizer + Custom Pre-trained DeepSeek R1 | Within-Project 
 #2  | Word-levelSP Tokenizer + Custom Pretrained LLaMA 3.2 | Within-Project  
 #22  | Word-levelSP Tokenizer + Custom Pretrained LLaMA 3.2 | Within-Repository 
 #222  | Word-levelSP Tokenizer + Custom Pretrained LLaMA 3.2 | Cross-Repository  
+#3  | BPE Qwen Tokenizer + Custom Pre-trained Qwen | Within-Project 
 #6  | WordPieceSP Tokenizer + Custom Pretrained LLaMA 3.2 | Within-Project  
 #66  | WordPieceSP Tokenizer + Custom Pretrained LLaMA 3.2 | Within-Repository 
 #666  | WordPieceSP Tokenizer + Custom Pretrained LLaMA 3.2 | Cross-Repository  

@@ -1,0 +1,17 @@
+Train,Test,MAE,MdAE
+appceleratorstudio,appceleratorstudio,1.55,1.35
+aptanastudio,aptanastudio,3.93,3.08
+bamboo,bamboo,1.06,0.79
+clover,clover,3.81,1.92
+datamanagement,datamanagement,6.44,3.3
+duracloud,duracloud,1.16,0.95
+jirasoftware,jirasoftware,2.02,1.4
+mesos,mesos,1.34,1.04
+moodle,moodle,14.19,12.1
+mule,mule,2.73,2.63
+mulestudio,mulestudio,3.95,3.17
+springxd,springxd,2.08,1.88
+talenddataquality,talenddataquality,4.0,3.69
+talendesb,talendesb,0.92,0.64
+titanium,titanium,2.74,2.18
+usergrid,usergrid,1.42,1.24
